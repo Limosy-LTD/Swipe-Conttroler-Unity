@@ -1,0 +1,4 @@
+#Tue Aug 16 18:00:53 CEST 2022
+base.0=/Users/arthurreshetnyak/Desktop/Swipe Conttroler/Swipe Conttroler - 2D/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
